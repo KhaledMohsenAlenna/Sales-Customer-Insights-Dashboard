@@ -1,6 +1,8 @@
 # Sales and Customer Insights Dashboard
 
 <img width="1906" height="893" alt="Screenshot 2026-02-08 213946" src="https://github.com/user-attachments/assets/e16d260d-00d6-4cf2-9dc1-a07279512b2d" />
+<img width="1882" height="891" alt="Screenshot 2026-02-08 214007" src="https://github.com/user-attachments/assets/653b55d5-cbec-4900-980d-7ee487f561d0" />
+
 
 
 ![Dashboard Architecture](dashboard_preview.png)
