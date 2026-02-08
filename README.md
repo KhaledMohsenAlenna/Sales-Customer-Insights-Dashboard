@@ -5,7 +5,7 @@
 
 
 
-![Dashboard Architecture](dashboard_preview.png)
+
 
 ## Project Description
 This repository hosts a full-stack data analytics application designed to visualize sales metrics, revenue trends, and customer demographics. The project demonstrates the integration of a Python-based backend for data processing with a responsive frontend interface for dynamic visualization.
